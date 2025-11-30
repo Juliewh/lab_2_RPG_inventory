@@ -4,7 +4,6 @@ namespace RPGInventorySystem.Core.Items.Types
     {
         Weapon,
         Armor,
-        Potion,
-        QuestItem
+        Potion
     }
 }
